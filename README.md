@@ -90,13 +90,15 @@ plt.axis('off')
 plt.tight_layout()
 plt.show()
 ```
+#### Global Thresholding
 <img width="470" height="354" alt="image" src="https://github.com/user-attachments/assets/9dbc1c94-1a3a-47a3-ae71-4078f089c022" />
 
 
-
+#### Adaptive Thresholding
 <img width="366" height="374" alt="image" src="https://github.com/user-attachments/assets/26b6c7c5-beed-433a-8206-b9c119c3a899" />
 
 
+#### Otsu's Method
 
 <img width="377" height="362" alt="image" src="https://github.com/user-attachments/assets/c3d90977-b541-4e55-9370-0d68a6d805d4" />
 
