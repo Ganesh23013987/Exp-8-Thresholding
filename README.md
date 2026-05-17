@@ -33,7 +33,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 ```
-#### # Step 2: Read the image and convert to grayscale
+#### Step 2: Read the image and convert to grayscale
 ```
 image = cv2.imread('Qn8_thresholding.tif')  # Replace with your image file path
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)  # Convert to grayscale
